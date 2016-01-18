@@ -1,0 +1,9 @@
+* {
+  -webkit-box-sizing: initial;
+  -moz-box-sizing: initial;
+  box-sizing: initial;
+  font-size: initial;
+}
+html {
+  font-size: initial;
+}
